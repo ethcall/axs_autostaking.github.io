@@ -1,3 +1,2 @@
 ## Privacy Policy
-Text there
-
+Text will be there
