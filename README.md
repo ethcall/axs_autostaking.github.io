@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 Eth_call built the Axie Infinity AXS Auto Staking app as a Free app. This SERVICE is provided by Eth_call at no cost and is intended for use as is.
 
@@ -8,7 +8,7 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Axie Infinity AXS Auto Staking unless otherwise defined in this Privacy Policy.
 
-# Information Collection and Use
+### Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Tony Vivas. The information that I request will be retained on your device and is not collected by me in any way.
 
